@@ -19,7 +19,7 @@ greeting()
 def easy_level():
    """Guessing option if the level chosen is easy The user will be given 10 attempts to choose given number"""
    attempts = 10
-   guessed_number =random.randint(1, 100)
+   guessed_number =random.randint(1, 101)
    #print(guessed_number)
 
 
